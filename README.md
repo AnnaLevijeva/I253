@@ -1,2 +1,1 @@
-# september7
-Informaatika eelkursuse praktikum
+# Informaatika eelkursus
