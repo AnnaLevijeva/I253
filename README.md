@@ -1,1 +1,3 @@
 # Informaatika eelkursus
+
+finally.
